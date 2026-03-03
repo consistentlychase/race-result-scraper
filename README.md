@@ -23,7 +23,7 @@ For example, I cannot handle high humidity while running. With this program, I a
 4. Weather retrieval — Call Open-Meteo to fetch hourly weather for race day, then filter to 6am–4pm to match expected discipline timing.
 5. Data cleaning & export — Save each race-year dataset as a CSV for later analysis.
 
-![screenshot of folder structure](folder_stucture.png){width=100}
+![screenshot of folder structure](folder_stucture.png){width=50}
 
 ## Tech Stack
 Python
