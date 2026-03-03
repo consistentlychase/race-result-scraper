@@ -23,6 +23,7 @@ Designed for downstream analysis in Jupyter
 4. Weather retrieval — Call Open-Meteo to fetch hourly weather for race day, then filter to 6am–4pm to match expected discipline timing.
 5. Data cleaning & export — Save each race-year dataset as a CSV for later analysis.
 
+![Alt text](Data Folder Structure.png)
 
 ## Tech Stack
 Python
