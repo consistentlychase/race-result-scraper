@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+.venv/
+.vscode/
+.cache/
+*.sqlite
+data/
+*.ipynb_checkpoints
