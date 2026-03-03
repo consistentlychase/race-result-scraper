@@ -9,12 +9,12 @@ I am planning on signing up to my first Half Ironman and there are a lot of diff
 For example, I cannot handle high humidity while running. With this program, I am able to gather all the data points needed to answer questions like: What was the average temperature? Was it humid? How fast is the run compared to other races? What about the swim? What are the average times per race? 
 
 ## Features
-Scrapes race results from Ironman’s private API
-Extracts event IDs and athlete performance data
-Fetches historical weather using Open-Meteo API
-Converts raw data into clean, structured CSV files
-Supports multiple races and multiple years
-Designed for downstream analysis in Jupyter
+- Scrapes race results from Ironman’s private API
+- Extracts event IDs and athlete performance data
+- Fetches historical weather using Open-Meteo API
+- Converts raw data into clean, structured CSV files
+- Supports multiple races and multiple years
+- Designed for downstream analysis in Jupyter
 
 ## How It Works
 1. Race metadata scraping — Parse race pages to collect event IDs and dates.
@@ -31,9 +31,9 @@ Open-Meteo API
 JSON / OS
 
 ## How to Run
-Python 3.13
-Install dependencies: pip install -r requirements.txt
-Run: python main.py
+Python 3.13  
+Install dependencies: pip install -r requirements.txt  
+Run: python main.py  
 
 ## Project Structure:
 project/ 
