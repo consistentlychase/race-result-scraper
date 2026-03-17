@@ -8,3 +8,7 @@ data/
 *.ipynb_checkpoints
 *.ipynb_files
 folder_stucture.png
+test.py
+args.py
+notebooks/
+folder_structure.png

@@ -50,8 +50,10 @@ def get_race_ids():
 			split_top = raw_data.split('/json">')
 			middle = split_top[1]
 
-			split_bottom = middle.split('</script></body></html>')
+			split_bottom = middle.split('"latestResults":')
 			split_data_str = split_bottom[0]
+			#print(split_data_str)
+
 
 			data_dict = json.loads(split_data_str)
 
